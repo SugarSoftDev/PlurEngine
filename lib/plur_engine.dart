@@ -1,6 +1,6 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// The PlurEngine library.
+/// 
+/// This library provides the core functionality for the PlurIdle games.
 library;
 
 export 'src/items/inventory.dart';
@@ -12,5 +12,3 @@ export 'src/plur_timer.dart';
 export 'src/skills/action_buffs.dart';
 export 'src/skills/skill.dart';
 export 'src/skills/skill_action.dart';
-
-// TODO(RainbowSprinkles): Export any libraries intended for clients of this package.
